@@ -35,7 +35,7 @@
   ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
   ![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/-Laravel-DD0031?style=flat-square&logo=laravel&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
   ![Jest](https://img.shields.io/badge/-jest-be3d19?style=flat-square&logo=jest&logoColor=white)
   ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
