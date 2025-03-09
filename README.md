@@ -1,12 +1,33 @@
+![demonicinn](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h2 align="center">Hi 👋, I'm Gurpreet Singh</h2>
-<h4 align="center"> Fullstack Developer 
 
+<h3 align="center">A passionate and full stack developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
   <a href="https://www.linkedin.com/in/gurpreet-singh-8b56b2114/">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
       alt="LinkedIn"
     />
   </a>
+</p>
+<a align="right" href="https://github.com/demonicinn">
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</a>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demonicinn" alt="demonicinn" /></a> </p>
+
+- 🔭 I’m currently working on **Corporate Projects** 
+
+- 👨‍💻 All of my projects are available at this github account and in my Private Repository. Sorry!
+
+- 💬 Ask me about **anything.**
+
+- 📫 How to reach me **info.gurpreetsaini@gmail.com**
+
+<p align="left">
 
   ### 💻 Some Technologies I Enjoy  
   
@@ -20,12 +41,6 @@
   ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
   
   <p align="left">
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
-      <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
-    </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40" />
-    </a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
     </a>
